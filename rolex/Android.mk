@@ -14,6 +14,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),ugglite)
+ifeq ($(TARGET_DEVICE),rolex)
 
 endif
